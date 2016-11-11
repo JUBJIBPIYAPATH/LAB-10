@@ -82,10 +82,14 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
 
+![](https://github.com/JUBJIBPIYAPATH/LAB-10/blob/master/10.PNG?raw=true)
+
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
+
+![](https://github.com/JUBJIBPIYAPATH/LAB-10/blob/master/11.PNG?raw=true)
 
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
