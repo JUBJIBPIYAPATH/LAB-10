@@ -75,6 +75,8 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+![](https://github.com/JUBJIBPIYAPATH/LAB-10/blob/master/09.PNG?raw=true)
+
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
