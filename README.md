@@ -69,6 +69,7 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
+![](https://github.com/JUBJIBPIYAPATH/LAB-10/blob/master/08.PNG?raw=true)
 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
